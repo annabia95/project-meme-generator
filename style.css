@@ -1,4 +1,23 @@
 #meme-text {
     position: absolute;
     z-index: 1;
+    text-shadow: 5px 5px 5px black;
+    font-size: 30px;
+    color: white;
+    text-align: center;
   } 
+
+#meme-image-container {
+  background-color: white;
+  border: 1px solid black;
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin-top: 30px;
+}
+
+#meme-image {
+  position: absolute;
+  height: 400px;
+  width: 400px;
+}
