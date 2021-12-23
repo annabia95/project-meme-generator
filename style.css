@@ -1,10 +1,14 @@
+* {
+  margin: auto;
+}
+
+/* Requisitos 3 e 4*/
 #meme-text {
     position: absolute;
     z-index: 1;
     text-shadow: 5px 5px 5px black;
     font-size: 30px;
     color: white;
-    text-align: center;
   } 
 
 #meme-image-container {

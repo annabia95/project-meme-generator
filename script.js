@@ -17,3 +17,5 @@ function insertMeme() {
   showImage.src = URL.createObjectURL(img[0]);
 }
 getInputImage.addEventListener('change', insertMeme);
+
+// Requisito 5 -  Usei como recurso o 'maxlength'. Link: https://pt.stackoverflow.com/questions/284860/max-length-em-input-type-number-html
