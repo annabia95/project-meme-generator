@@ -25,3 +25,22 @@
   height: 400px;
   width: 400px;
 }
+
+button {
+  margin-top: 450px;
+}
+
+#fire {
+  background-color: red;
+  color: white;
+}
+
+#water {
+  background-color: blue;
+  color: white;
+}
+
+#earth {
+  background-color: green;
+  color: white;
+}

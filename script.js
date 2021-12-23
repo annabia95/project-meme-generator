@@ -19,3 +19,22 @@ function insertMeme() {
 getInputImage.addEventListener('change', insertMeme);
 
 // Requisito 5 -  Usei como recurso o 'maxlength'. Link: https://pt.stackoverflow.com/questions/284860/max-length-em-input-type-number-html
+
+// Requisito 6
+const btnFire = document.querySelector('#fire');
+const btnWater = document.querySelector('#water');
+const btnEarth = document.querySelector('#earth');
+const container = document.querySelector('#meme-image-container');
+
+function changeBorder () {
+ btnFire.addEventListener ('click', function () {
+  container.style.border = '3px dashed red';
+ })
+ btnWater.addEventListener ('click', function () {
+  container.style.border = '5px double blue';
+ })
+ btnEarth.addEventListener ('click', function () {
+  container.style.border = '6px groove green';
+ })
+};
+changeBorder ();
