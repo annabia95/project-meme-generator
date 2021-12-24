@@ -38,3 +38,12 @@ function changeBorder () {
  })
 };
 changeBorder ();
+
+//Requisito 7
+const divImage = document.getElementById('imagens').children;
+function getMeme(event) {
+  showImage.src = event.target.src;
+}
+for (let index = 0; index < divImage.length; index += 1) {
+  divImage[index].addEventListener('click', getMeme);
+};

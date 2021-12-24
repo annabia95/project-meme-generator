@@ -1,5 +1,12 @@
 * {
   margin: auto;
+  background-color: #f6f6f8;
+}
+h1 {
+  font-family: 'Pacifico', cursive;
+}
+#text-input, #meme-insert{
+  margin-top: 10px;
 }
 
 /* Requisitos 3 e 4*/
@@ -9,25 +16,38 @@
     text-shadow: 5px 5px 5px black;
     font-size: 30px;
     color: white;
+    background-color: transparent;
+    font-family: 'Dancing Script', cursive;
+    margin-left: 85px;
+    margin-top: 10px;
+    font-weight: 100px;
   } 
 
 #meme-image-container {
   background-color: white;
   border: 1px solid black;
   position: relative;
-  width: 400px;
-  height: 400px;
-  margin-top: 30px;
+  width: 300px;
+  height: 300px;
+  margin-top: 25px;
 }
 
 #meme-image {
   position: absolute;
-  height: 400px;
-  width: 400px;
+  height: 300px;
+  width: 300px;
 }
-
+#bordas {
+  font-family: 'Pacifico', cursive;
+  margin-left: 38%;
+}
+#figuras {
+  font-family: 'Pacifico', cursive;
+  margin-top: 30px;
+  margin-left: 12%;
+}
 button {
-  margin-top: 450px;
+  margin-top: 330px;
 }
 
 #fire {
@@ -43,4 +63,14 @@ button {
 #earth {
   background-color: green;
   color: white;
+}
+
+#meme-1, #meme-2, #meme-3, #meme-4 {
+  height: 100px;
+  width: 100px;
+  margin-top: 8px;
+  margin-left: 12%;
+  margin-right: 20px;
+  border-radius: 5px;
+  border: 1px solid black
 }
