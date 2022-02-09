@@ -4,12 +4,6 @@ Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano 
 
 Desenvolvi um site onde é possível fazer o upload de fotos para memes.
 
-Veja o exemplo a seguir do layout do projeto!
-
-## Demo
-
-![Demo](img/video.gif)
-
 ## Habilidades Desenvolvidas
 
 Neste projeto, desenvolvi as seguintes habilidades:
