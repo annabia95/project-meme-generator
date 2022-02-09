@@ -1,10 +1,26 @@
 Este projeto contém os requisitos realizados por _[Anna Beatriz Garcia Trajano de Sá](www.linkedin.com/in/anna-beatriz-trajano-de-sá)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
+# Project Meme Generator
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+Desenvolvi um site onde é possível fazer o upload de fotos para memes.
 
-# Boas vindas ao repositório do projeto Meme Generator!
+Veja o exemplo a seguir do layout do projeto!
+
+## Demo
+
+![Demo](img/video.gif)
+
+## Habilidades Desenvolvidas
+
+Neste projeto, desenvolvi as seguintes habilidades:
+
+ - Manipular o DOM.
+
+ - Manipular o Javascript.
+
+ - Manipular o CSS.
+
+## Escopo do Projeto
 
     `Requisitos obrigatórios:`
     - [x] [1 - Crie uma caixa de texto com a qual quem usa pode interagir para inserir texto em cima da imagem escolhida.](#1---crie-uma-caixa-de-texto-com-a-qual-quem-usa-pode-interagir-para-inserir-texto-em-cima-da-imagem-escolhida)
@@ -16,11 +32,3 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
     `Requisitos bônus:`
     - [x] [6 - Permita a quem usa customizar o meme escolhido acrescentando a ele uma de três bordas. A página deve ter três botões, que ao serem clicados devem cada um trocar a própria borda ao redor do container.](#6---permita-a-quem-usa-customizar-o-meme-escolhido-acrescentando-a-ele-uma-de-três-bordas-a-página-deve-ter-três-botões-que-ao-serem-clicados-devem-cada-um-trocar-a-própria-borda-ao-redor-do-container)
     - [x] [7 - Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Mostre miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura do elemento de container.](#7---tenha-um-conjunto-de-quatro-imagens-pré-prontas-de-memes-famosos-para-o-usuário-escolher-mostre-miniaturas-das-imagens-e-mediante-clique-do-usuário-essa-imagem-deve-aparecer-dentro-da-moldura-do-elemento-de-container)
-
-# Habilidades
-
-- Manipular o DOM.
-
-- Manipular o Javascript.
-
-- Manipular o CSS.
